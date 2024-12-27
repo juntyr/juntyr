@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi there 🌈
 
-<!--
-**juntyr/juntyr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Juniper [they/them], a PhD researcher at the [University of Helsinki][uh-profile] [^1][^2] [^3].
 
-Here are some ideas to get you started:
+> Protecting our planet and the incredible species we share it with are very close to my heart. I am utilising computer science to provide support in attacking these global problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My research is focused on fearless lossy compression for weather and climate science. I also work on reproducible computing for scientific collaboration and outreach.
+
+I enjoy writing scientific software, primarily in Rust 🦀 with some Python sprinkled in. I also contribute to various open-source communities, e.g. around WebAssembly.
+
+[^1]: I graduated from Imperial College London with an MEng in Computing in 2021.
+[^2]: I graduated from the University of Helsinki with an MSc in Theoretical and Computational Methods in 2023.
+[^3]: You can find *a* CV of mine [here][cv].
+
+[uh-profile]: https://researchportal.helsinki.fi/en/persons/juniper-tyree
+[cv]: https://tuhat.helsinki.fi/ws/portalfiles/portal/cv/10156744-6111-4275-829d-2cbfd8949b72?locale=en_GB
