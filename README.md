@@ -1,6 +1,6 @@
 ## Hi there 🌈
 
-I'm Juniper [they/them], a PhD researcher at the [University of Helsinki][uh-profile] [^1][^2]. [^3]
+I'm Juniper [they/she], a PhD researcher at the [University of Helsinki][uh-profile] [^1][^2]. [^3]
 
 > Protecting our planet and the incredible species we share it with are very close to my heart. I am utilising computer science to provide support in attacking these global problems.
 
