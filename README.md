@@ -1,10 +1,10 @@
 ## Hi there 🌈
 
-I'm Juniper [they/she], a PhD researcher at the [University of Helsinki][uh-profile] [^1][^2]. [^3]
+I'm Juniper [she/they], a PhD researcher at the [University of Helsinki][uh-profile] [^1][^2]. [^3]
 
 > Protecting our planet and the incredible species we share it with are very close to my heart. I am utilising computer science to provide support in attacking these global problems.
 
-My research is focused on fearless lossy compression for weather and climate science. I also work on reproducible computing for scientific collaboration and outreach. [^4]
+My research is focused on safe and fearless lossy compression for weather and climate science. I also work on reproducible computing for scientific collaboration and outreach. [^4]
 
 I enjoy writing scientific software, primarily in Rust 🦀 with some Python sprinkled in. I also contribute to various open-source communities, e.g. around WebAssembly.
 
